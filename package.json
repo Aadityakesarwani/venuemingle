@@ -1,5 +1,5 @@
 {
-  "name": "evently",
+  "name": "venuemingle",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -45,6 +45,8 @@
     "@types/react-datepicker": "^4.19.3",
     "@types/react-dom": "^18",
     "autoprefixer": "^10.0.1",
+    "eslint": "8.56.0",
+    "eslint-config-next": "14.0.4",
     "postcss": "^8",
     "tailwindcss": "^3.3.0",
     "typescript": "^5"
