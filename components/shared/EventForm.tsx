@@ -74,7 +74,7 @@ const EventForm = ({ userId, type, event, eventId }: EventFormProps) => {
           router.push(`/events/${newEvent._id}`)
         }
       } catch (error) {
-        console.log(error);
+        console.log("Erro while creaeting event",error);
       }
     }
 
